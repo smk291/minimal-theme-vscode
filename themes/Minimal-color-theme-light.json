@@ -1,0 +1,11 @@
+{
+	"name": "Minimal",
+	"type": "light",
+	"colors": {
+		"editor.background": "#e5e5e5",
+		"editor.foreground": "#111111",
+		"activityBarBadge.background": "#555555",
+		"sideBarTitle.foreground": "#111111"
+	},
+	"tokenColors": []
+}
