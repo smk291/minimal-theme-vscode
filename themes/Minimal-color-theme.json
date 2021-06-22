@@ -7,25 +7,5 @@
 		"activityBarBadge.background": "#555555",
 		"sideBarTitle.foreground": "#e5e5e5"
 	},
-	"tokenColors": [{
-			"name": "Comment",
-			"scope": [
-				"comment",
-				"punctuation.definition.comment"
-			],
-			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#616161"
-			}
-		},
-		{
-			"name": "String, Regex",
-			"scope": [
-				"string"
-			],
-			"settings": {
-				"foreground": "#89DDFF"
-			}
-		}
-	]
+	"tokenColors": []
 }
